@@ -1,0 +1,2 @@
+# duckduckhack
+duckduckgo hackathon repo
